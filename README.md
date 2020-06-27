@@ -1,4 +1,4 @@
-# Baidu-AIStudio-Reinforcement-Learning-7-Days
+# Baidu AIStudio Reinforcement Learning 7 Days 百度AIStudio强化学习7日训练营
 
 作为滞留在美国的留学生，暑假已经开始半个月了。无所事事很多天后，朋友给我推荐了Baidu AiStudio的强化学习7日训练营课程。题主过去一年主修的是机器学习，对于强化学习知之甚少，这门课旨在帮助初学者快速入门，正好满足了我的需求。接下来按照课程提纲说一说这七天的课程感悟：
 
